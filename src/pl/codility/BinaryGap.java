@@ -1,4 +1,4 @@
-package codility;
+package pl.codility;
 
 public class BinaryGap {
     public int solution(int N) {

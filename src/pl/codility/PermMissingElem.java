@@ -1,4 +1,4 @@
-package codility;
+package pl.codility;
 
 public class PermMissingElem {
     public int solution(int[] A) {

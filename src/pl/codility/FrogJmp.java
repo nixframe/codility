@@ -1,4 +1,4 @@
-package codility;
+package pl.codility;
 
 public class FrogJmp {
     public int solution(int X, int Y, int D) {
